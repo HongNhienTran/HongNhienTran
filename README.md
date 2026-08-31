@@ -1,11 +1,11 @@
 # Hi 👋, I'm Hong Nhien Tran
 
-### 💻 Full-stack Developer 
+### 💻 Full-stack Developer
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=HongNhienTran&theme=github-dark&style=terminal&mode=light&showBio=false" />
-    <img src="https://www.gitskins.com/api/section/hero?username=HongNhienTran&theme=github-dark&style=terminal7showBio=false" alt="HongNhienTran hero section" />
+    <img src="https://www.gitskins.com/api/section/hero?username=HongNhienTran&theme=github-dark&style=terminal&showBio=false" alt="HongNhienTran hero section" />
   </picture>
 </p>
 
@@ -22,6 +22,7 @@
     <img src="https://www.gitskins.com/api/section/stack?username=HongNhienTran&theme=github-dark&style=terminal" alt="HongNhienTran stack section" />
   </picture>
 </p>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=HongNhienTran&theme=github-dark&style=terminal&mode=light" />
