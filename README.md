@@ -4,8 +4,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=HongNhienTran&theme=github-dark&style=terminal&mode=light" />
-    
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=HongNhienTran&theme=github-dark&style=terminal&mode=light&showBio=false" />
+    <img src="https://www.gitskins.com/api/section/hero?username=HongNhienTran&theme=github-dark&style=terminal7showBio=false" alt="HongNhienTran hero section" />
   </picture>
 </p>
 
