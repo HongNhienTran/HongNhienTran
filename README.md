@@ -10,47 +10,31 @@ Coder? Who said that? :)))))))))
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=HongNhienTran&theme=github-dark&style=terminal&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=HongNhienTran&theme=github-dark&style=terminal" alt="HongNhienTran hero section" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=HongNhienTran&theme=aurora&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=HongNhienTran&theme=aurora" alt="HongNhienTran hero section" />
   </picture>
 </p>
-## About Me
-
-Getting colder just to look cooler ||
-Coder? Who said that? :)))))))))
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=HongNhienTran&theme=github-dark&style=terminal&mode=light" />
-    <img src="https://www.gitskins.com/api/section/about?username=HongNhienTran&theme=github-dark&style=terminal" alt="HongNhienTran about section" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=HongNhienTran&theme=aurora&mode=light" />
+    <img src="https://www.gitskins.com/api/section/wordmark?username=HongNhienTran&theme=aurora" alt="HongNhienTran 3d wordmark section" />
   </picture>
 </p>
-## Skills
-
-Languages and tools: TypeScript, Java, CSS, JavaScript, HTML.
+## Highlights
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=HongNhienTran&theme=github-dark&style=terminal&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stack?username=HongNhienTran&theme=github-dark&style=terminal" alt="HongNhienTran stack section" />
-  </picture>
-</p>
-## Projects
-
-Featured repositories selected from the public GitHub profile.
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=HongNhienTran&theme=github-dark&style=terminal&mode=light" />
-    <img src="https://www.gitskins.com/api/section/projects?username=HongNhienTran&theme=github-dark&style=terminal" alt="HongNhienTran projects section" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=HongNhienTran&theme=aurora&mode=light" />
+    <img src="https://www.gitskins.com/api/section/highlights?username=HongNhienTran&theme=aurora" alt="HongNhienTran highlights section" />
   </picture>
 </p>
 ## Heatmap
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=HongNhienTran&theme=github-dark&style=terminal&mode=light" />
-    <img src="https://www.gitskins.com/api/section/heatmap?username=HongNhienTran&theme=github-dark&style=terminal" alt="HongNhienTran heatmap section" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=HongNhienTran&theme=aurora&style=jet&mode=light" />
+    <img src="https://www.gitskins.com/api/section/heatmap?username=HongNhienTran&theme=aurora&style=jet" alt="HongNhienTran heatmap section" />
   </picture>
 </p>
 ## GitHub Stats
@@ -59,15 +43,32 @@ Featured repositories selected from the public GitHub profile.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=HongNhienTran&theme=github-dark&style=terminal&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stats?username=HongNhienTran&theme=github-dark&style=terminal" alt="HongNhienTran stats section" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=HongNhienTran&theme=aurora&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=HongNhienTran&theme=aurora" alt="HongNhienTran stats section" />
+  </picture>
+</p>
+## Projects
+
+Featured repositories selected from the public GitHub profile.
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=HongNhienTran&theme=aurora&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=HongNhienTran&theme=aurora" alt="HongNhienTran projects section" />
   </picture>
 </p>
 ## Connect
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=HongNhienTran&theme=github-dark&style=terminal&mode=light" />
-    <img src="https://www.gitskins.com/api/section/social?username=HongNhienTran&theme=github-dark&style=terminal" alt="HongNhienTran social section" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=HongNhienTran&theme=aurora&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=HongNhienTran&theme=aurora" alt="HongNhienTran social section" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=HongNhienTran&theme=aurora&color=1&v=portrait-rgb-1&mode=light" />
+    <img src="https://www.gitskins.com/api/section/portrait?username=HongNhienTran&theme=aurora&color=1&v=portrait-rgb-1" alt="HongNhienTran colored dot-matrix portrait section" />
   </picture>
 </p>
