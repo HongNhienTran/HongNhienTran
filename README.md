@@ -4,8 +4,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=HongNhienTran&theme=github-dark&style=terminal&mode=light&showBio=false" />
-    <img src="https://www.gitskins.com/api/section/hero?username=HongNhienTran&theme=github-dark&style=terminal&showBio=false" alt="HongNhienTran hero section" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=HongNhienTran&theme=github-dark&style=terminal&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=HongNhienTran&theme=github-dark&style=terminal" alt="HongNhienTran about section" />
   </picture>
 </p>
 
@@ -16,9 +16,3 @@
   </picture>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=HongNhienTran&theme=github-dark&style=terminal&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stats?username=HongNhienTran&theme=github-dark&style=terminal" alt="HongNhienTran stats section" />
-  </picture>
-</p>
