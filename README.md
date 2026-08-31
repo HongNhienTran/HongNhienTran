@@ -2,12 +2,10 @@
 
 ### 💻 Full-stack Developer 
 
-# Trần Hồng Nhiên
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=HongNhienTran&theme=github-dark&style=terminal&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=HongNhienTran&theme=github-dark&style=terminal" alt="HongNhienTran hero section" />
+    
   </picture>
 </p>
 
