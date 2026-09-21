@@ -30,7 +30,7 @@
 
 <div>
 
-<p><em>"I just wanted to share this little message with you:"</em></p>
+<p><em>"I just wanted to share this little message with you: EVERYTHING WILL BE OK 📫💕"</em></p>
 
 <pre>
 ███ █ █ ███ ███ █ █ ███ █ █ █ █ █  ███   █ █ █ █ █   █   ██  ███   ███ █ █
